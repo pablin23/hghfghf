@@ -1,0 +1,20 @@
+{
+  "name": "juan",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.12.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[pablin23\u001b[C\u001b\u001b[3~\u001b[3~"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
